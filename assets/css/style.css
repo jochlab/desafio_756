@@ -5,3 +5,15 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
+
+.menutop {
+    background-color: transparent !important;
+    position: fixed;
+    top: 0;
+    width: auto;
+    z-index: 2;
+}
+
+body {
+    background-color: black !important;
+}
