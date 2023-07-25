@@ -17,3 +17,24 @@
 body {
     background-color: black !important;
 }
+
+#iconostextos {
+    color: white;
+    font-size: 15px;
+}
+
+.iconos {
+    background-color: #0DCAF0 !important;
+    text-align: center;
+}
+
+.card-img-top {
+    width: 250px;
+    height: 150px;
+}
+
+#title-somos {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
