@@ -50,3 +50,45 @@ body {
     font-size: 30px;
     text-align: center;
 }
+
+#title-footer {
+    color: white !important;
+    font-size: 30px;
+    text-align: center;
+}
+
+.card-body {
+    background-color: #0DCAF0;
+}
+
+.card {
+    background-color: white !important;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.form-label {
+    color: white;
+    font-size: 17px;
+    text-align: left;
+}
+
+.botonenviar {
+    /*altura del boton */
+    height: 30px;
+    /*centra texto verticalmente */
+    line-height: 50px;
+}
+
+.contacto {
+    margin-bottom: 20px;
+}
+
+.icon {
+    color: #ffffff;
+}
+
+.footer {
+    background-color: #0DCAF0 !important;
+    padding: 30px;
+}
